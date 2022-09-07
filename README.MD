@@ -26,11 +26,15 @@ Here's a walkthrough of implemented features:
 <img src='demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
+## Notes
+
+I wasn't able to figure why my skull button is not showing properly.
+It looks like that it is in the back layer behind the background image
 
 ## License
 
